@@ -1,0 +1,4 @@
+output/
+audio/*
+!audio/README.md
+*.asv
